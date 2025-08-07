@@ -1,0 +1,33 @@
+# Django Framework
+Django>=3.2.8,<4.0
+
+# Database
+# Using SQLite3 (built-in with Python)
+
+# Django Extensions
+django-extensions>=3.1.0
+
+# Image handling
+Pillow>=8.0.0
+
+# Payment processing
+stripe>=2.60.0
+
+# Environment variables
+python-decouple>=3.4
+
+# Development tools (optional for production)
+django-debug-toolbar>=3.2.0
+
+# Static files handling
+whitenoise>=5.3.0
+
+# Production server
+gunicorn>=20.1.0
+
+# Database adapter (if using PostgreSQL)
+# psycopg2-binary>=2.9.0
+
+# Additional utilities
+django-crispy-forms>=1.13.0
+django-widget-tweaks>=1.4.8
