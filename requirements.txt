@@ -1,5 +1,5 @@
 # Django Framework
-Django>=3.2.8,<4.0
+Django>=5.2
 
 # Database
 # Using SQLite3 (built-in with Python)
